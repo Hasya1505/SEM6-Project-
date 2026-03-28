@@ -107,33 +107,4 @@ MediStore Pro includes a rich internal JSON API for seamless async dashboard loa
 
 </details>
 
----
-
-## ⚙️ Engineering & Quick Setup
-
-### 1. Environment Preparation
-```bash
-# Clone the repository
-git clone [https://github.com/your-username/medistore-pro.git](https://github.com/your-username/medistore-pro.git)
-cd medistore-pro
-
-# Create and activate virtual environment
-python -m venv .venv
-source .venv/bin/activate  # On Windows use: .\.venv\Scripts\activate
-
-# Install core dependencies
-pip install -r requirements.txt
-### 2. Database Provisioning & Seeding
-
-Execute the SQL schema in your MySQL 8.0+ instance, then bulk upload your initial inventory via the CSV Template system. Update config.py:0
-
-DB_HOST = "127.0.0.1"
-DB_USER = "root"
-DB_PASSWORD = "your_secure_password"
-DB_NAME = "medical_store"
-
-### 3. Launch the ERP
-set FLASK_APP=app.py
-set FLASK_ENV=development
-flask run --host=0.0.0.0 --port=5000
 
