@@ -19,47 +19,47 @@
 
 ### 🌐 Modern Authentication & Landing
 *Secure entry point with role-based routing for Owners, Pharmacists, and Cashiers.*
-<img src="Screenshot (3).png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Landing & Login Page">
+<img src="Screen\Screenshot 2026-03-28 160557.png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Landing & Login Page">
 
 ### 👑 Owner & Admin Experience
 
 **1. Real-Time Intelligence Dashboard**
 *Financial metrics are calculated dynamically, stripping out returns and isolating input/output GST for true profit margins.*
-<img src="Screenshot (18).png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Owner Dashboard">
+<img src="Screen\Screenshot 2026-03-28 160653.png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Owner Dashboard">
 
 **2. Comprehensive Analytics & Reports**
 *Generate custom, vector-based PDF reports for demand forecasting, GST liability, and category revenue.*
-<img src="Screenshot (22).png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Reports Page">
+<img src="Screen\Screenshot 2026-03-28 160709.png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Reports Page">
 
 **3. Supplier & Procurement Management**
 *Track purchase orders, manage vendor relationships, and monitor pending deliveries.*
-<img src="Screenshot_Supplier.png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Supplier Management">
+<img src="Screen\Screenshot 2026-03-28 160736.png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Supplier Management">
 
 **4. Staff Performance Analysis**
 *Monitor individual employee sales volume, billing speed, and transaction accuracy.*
-<img src="Screenshot (21).png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Staff Analysis">
+<img src="Screen\Screenshot 2026-03-28 160757.png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Staff Analysis">
 
 **5. Store Details & Settings**
 *Configure system-wide variables like store name, default GST rates, and UPI payment IDs.*
-<img src="Screenshot_Settings.png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Store Settings">
+<img src="Screen\Screenshot 2026-03-28 160812.png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Store Settings">
 
 ### 👨‍⚕️ Staff & Pharmacist Experience
 
 **1. High-Speed POS & Billing Engine**
 *Zero-latency checkout interface with tri-tier search algorithms and automatic FIFO batch deduction.*
-<img src="Screenshot (15).png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Billing POS">
+<img src="Screen\Screenshot 2026-03-28 160827.png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Billing POS">
 
 **2. Real-Time Inventory Status**
 *Track stock quantities across multiple batches and monitor reorder levels instantly.*
-<img src="Screenshot_Inventory.png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Inventory Status">
+<img src="Screen\Screenshot 2026-03-28 161017.png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Inventory Status">
 
 **3. Expiry & Low Stock Alerts**
 *Proactive dashboard warning staff of batches nearing expiration (30/60/90 days) to minimize capital loss.*
-<img src="Screenshot (29).png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Expiry Alerts">
+<img src="Screen\Screenshot 2026-03-28 161028.png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Expiry Alerts">
 
 **4. Bill Returns & Inventory Restock**
 *Process refunds and intelligently restore returned medicine back to the batch with the furthest expiry date.*
-<img src="Screenshot_Returns.png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Bill Returns">
+<img src="Screen\Screenshot 2026-03-28 161045.png" width="1000" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" alt="Bill Returns">
 
 </div>
 
